@@ -1,3 +1,3 @@
 #!/bin/bash
-grep bin /etc/passwrd | wc -1
+grep bin /etc/passwrd | wc -l
 
